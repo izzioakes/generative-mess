@@ -11,3 +11,5 @@ the lines are broken up by a white circle with no stroke drawn at that new point
 there is also a 3 in 10 chance a visible circle can be initialized near a point after it is drawn.
 
 feel free to play with the randomness (which also equals the max line distance), line count, ellipse sizes and the random seed.
+
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/0cbe5771890893.5bd4b5df114ea.png
