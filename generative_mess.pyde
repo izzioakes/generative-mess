@@ -6,7 +6,6 @@ def setup():
 def draw():
     background(255)
     randomSeed(10)
-    stroke(0)
     
     randomness = 30
     linecount = 10000
