@@ -42,7 +42,7 @@ def draw():
         noStroke()
         ellipse(x,y,ellipsesize,ellipsesize)
         
-        #fill behavior changed to visible. 3/10 chance that that a circle of random size will be drawn near (x2, y2)
+        #fill behavior changed to visible. 1/10 chance that that a circle of random size will be drawn near (x2, y2)
         stroke(0)
         fill(255,0)
         if int(random(10)) == 3:
